@@ -53,18 +53,13 @@ Here are some of the projects I’ve worked on:
 ## 📬 Let's Connect!
 - 🌐 Personal Website: [princeulrich.netlify.app](https://princeulrich.netlify.app/)  
 - 💼 LinkedIn: [Prince Ulrich Abel](https://linkedin.com/in/prince-ulrich-abel)  
-- 🐦 Twitter: [@PrinceUlrich_](https://twitter.com/PrinceUlrich_)  
-- 📧 Email: [contact@princeulrich.netlify.app](mailto:contact@princeulrich.netlify.app)
+- 🐦 Twitter: [@PrinceUlrich_](https://twitter.com/princeulrichke)  
+- 📧 Email: [princeulrich254@gmail.com](mailto:princeulrich254@gmail.com)
 
 ---
 
 ## 🌟 Customization Guide
 Feel free to use this repository to style your own GitHub profile! Check the `README.md` file for tips and tricks to customize your own profile.
-
----
-
-## 📜 License
-This repository is open-sourced under the **MIT License**. You’re free to use and modify it for your own projects.
 
 ---
 <!--
