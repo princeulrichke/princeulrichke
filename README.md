@@ -30,8 +30,8 @@ Here are some of the projects I’ve worked on:
 ---
 
 ## 📊 GitHub Stats
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeulrich&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeulrich&layout=compact&theme=radical)
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeulrich254&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeulrich254&layout=compact&theme=radical)
 
 ---
 
