@@ -20,7 +20,7 @@ Welcome to my **GitHub Profile Styling Repository**! I'm a passionate **Mathemat
 Here are some of the projects I’ve worked on:
 1. **Personal Portfolio**  
    A dynamic portfolio showcasing my expertise and projects.  
-   [View Live](https://princeulrich.netlify.app/)
+   [View Live](https://princeulrich.vercel.app/)
 2. **Association Website**  
    A full-stack website for Esaku Orphans Association using HTML, CSS, JavaScript, and PHP, integrated with a MySQL database.  
    [Visit Website](https://esaku.or.ke)
