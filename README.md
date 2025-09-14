@@ -7,7 +7,7 @@ Welcome to my **GitHub Profile Styling Repository**! I'm a passionate **Mathemat
 ## ✨ About Me
 - 🌱 Currently learning: Advanced **Android Development** and **Deep Learning**.
 - 💻 Skills: 
-  - **Languages**: HTML, CSS, JavaScript, PHP, SQL, C++.
+  - **Languages**: HTML, CSS, JavaScript, Python, PHP, SQL, C++, MERN stack.
   - **Frameworks & Libraries**: React, Next.js, Laravel, Bootstrap, Tailwind CSS, Vite.
   - **Other Tools**: MySQL, Figma, Git.
 - 🎓 Certified in **AI Career Essentials** by ALX.
