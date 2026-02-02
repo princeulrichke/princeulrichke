@@ -5,14 +5,13 @@ Welcome to my **GitHub Profile Styling Repository**! I'm a passionate **Mathemat
 ---
 
 ## ✨ About Me
-- 🌱 Currently learning: Advanced **Android Development** and **Deep Learning**.
+- 🌱 Currently learning: Advanced **Android Development**, **Data Structure** and **Machine Learning**.
 - 💻 Skills: 
-  - **Languages**: HTML, CSS, JavaScript, Python, PHP, SQL, C++, MERN stack.
-  - **Frameworks & Libraries**: React, Next.js, Laravel, Bootstrap, Tailwind CSS, Vite.
-  - **Other Tools**: MySQL, Figma, Git.
+  - **Languages**: HTML, CSS, JavaScript, TypeSrip Python, PHP, SQL, C++, MERN stack.
+  - **Frameworks & Libraries**: React, Next.js, Django, Fast API, Laravel, Bootstrap, Tailwind CSS, Vite.
+  - **Other Tools**: MySQL, Postgress, Drizzle, MongoDB, Figma, Git.
 - 🎓 Certified in **AI Career Essentials** by ALX.
 - 🎨 Passionate about: Graphics design and creating engaging user interfaces.
-- 📢 Chairperson, Kakamega County Students Association (KAKUSA) at Kenyatta University (2024/2025).
 
 ---
 
@@ -52,9 +51,10 @@ Here are some of the projects I’ve worked on:
 
 ## 📬 Let's Connect!
 - 🌐 Personal Website: [princeulrich.netlify.app](https://princeulrich.netlify.app/)  
-- 💼 LinkedIn: [Prince Ulrich Abel](https://linkedin.com/in/prince-ulrich-abel)  
-- 🐦 Twitter: [@PrinceUlrich_](https://twitter.com/princeulrichke)  
+- 💼 LinkedIn: [Prince Ulrich Abel](https://linkedin.com/in/princeulrichke)  
+- 🐦 Twitter: [@PrinceUlrichke_](https://twitter.com/princeulrichke)  
 - 📧 Email: [princeulrich254@gmail.com](mailto:princeulrich254@gmail.com)
+- 🌟 Instagram: [@princeulrichke](https://instagram.com/princeulrichke)
 
 ---
 
