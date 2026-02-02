@@ -27,10 +27,11 @@ Here are some of the projects I’ve worked on:
    A database-driven management system developed using **C++** and **MySQL** for secure and efficient data handling.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeulrichke&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeulrichke&layout=compact&theme=radical)
+-->
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=princeulrichke&show_icons=true&theme=radical)
