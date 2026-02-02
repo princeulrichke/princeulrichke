@@ -58,7 +58,7 @@ Here are some of the projects I’ve worked on:
 ---
 
 ## 📬 Let's Connect!
-- 🌐 Personal Website: [princeulrich.netlify.app](https://princeulrich.netlify.app/)  
+- 🌐 Personal Website: [princeulrich.netlify.app](https://princeulrich.vercel.app/)  
 - 💼 LinkedIn: [Prince Ulrich Abel](https://linkedin.com/in/princeulrichke)  
 - 🐦 Twitter: [@PrinceUlrichke_](https://twitter.com/princeulrichke)  
 - 📧 Email: [princeulrich254@gmail.com](mailto:princeulrich254@gmail.com)
